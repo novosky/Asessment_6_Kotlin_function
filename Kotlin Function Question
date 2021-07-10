@@ -1,0 +1,9 @@
+fun inlove(flower1: Int, flower2: Int):Boolean{
+    return flower1 % 2 !== flower2 % 2
+}
+
+
+fun main(){
+    println("${inLove(3,23)}")
+    println("${inLove(5,7)}")
+    println("${inLove(24,98)}")
