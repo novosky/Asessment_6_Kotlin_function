@@ -4,6 +4,7 @@ fun inlove(flower1: Int, flower2: Int):Boolean{
 
 
 fun main(){
-    println("${inLove(3,23)}")
-    println("${inLove(5,7)}")
-    println("${inLove(24,98)}")
+    println("${inlove(3,23)}")
+    println("${inlove(5,7)}")
+    println("${inlove(24,98)}")
+    }
